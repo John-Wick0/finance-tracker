@@ -25,10 +25,10 @@ Tech Stack:
 Project Structure:
 
 PYTHON\finance-tracker
-|__data/
-|__src/
-|__.gitignre
-|__main.py
-|__README.md
-|__requirements.txt
+|__ data/
+|__ src/
+|__ .gitignore
+|__ main.py
+|__ README.md
+|__ requirements.txt
  
