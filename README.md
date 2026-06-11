@@ -4,7 +4,9 @@
 
 Overview:
 
-This is a personal finance data built in Python to help track income, expenses, and overall financial activity. The project is continously being improved through multiple versions as I progress and apply new programming concepts.
+Hi, welcome!
+
+This is a finance data built in Python to help track income, expenses, and overall financial activity. The project is continously being improved through multiple versions as I progress and apply new programming concepts.
 
 The goal is to engineer a practical, real-world application while improving data handling, and software development skills.
 
