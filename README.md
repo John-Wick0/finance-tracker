@@ -10,7 +10,6 @@ The goal is to engineer a practical, real-world application while improving data
 
 Features:
 
-So far -
 . Income and expense entries.
 . Spending categories.
 . Store and manage financial data.
