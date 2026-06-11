@@ -1,19 +1,20 @@
-# Finance Tracker
+# Finance Data
 
 (Python)
 
 Overview:
 
-This is a personal finance tracker built in Python to help track income, expenses, and overall financial activity. The project is continously being improved through multiple versions as I learn and apply new programming concepts.
+This is a personal finance data built in Python to help track income, expenses, and overall financial activity. The project is continously being improved through multiple versions as I progress and apply new programming concepts.
 
-The goal is to build a practical, real-world application while improving Python, data handling, and software development skills.
+The goal is to engineer a practical, real-world application while improving data handling, and software development skills.
 
 Features:
 
-. Add income and expense entries.
-. Track spending categories.
+So far -
+. Income and expense entries.
+. Spending categories.
 . Store and manage financial data.
-. View summaries of financial activity.
+. Summaries of financial activity.
 . Iterative improvements accross versions
 
 Tech Stack:
@@ -24,7 +25,7 @@ Tech Stack:
 
 Project Structure:
 
-PYTHON\finance-tracker
+PYTHON\finance_data
 |__ data/
 |__ src/
 |__ .gitignore
